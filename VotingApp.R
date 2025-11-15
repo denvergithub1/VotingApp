@@ -11,7 +11,7 @@ library(ggplot2)
 library(digest)
 
 # Authenticating
-gs4_auth(path = "saint-lucia-map-426222-b915f4d367f1.json")
+gs4_auth(path = "...")
 
 # UI
 ui <- fluidPage(
